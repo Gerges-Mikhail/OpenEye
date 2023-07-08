@@ -1,0 +1,4 @@
+0 Fire
+1 people
+2 holes
+3 Cars
