@@ -12,14 +12,15 @@
 7. The ability to save notes and listen to them at any time.
 8. The option to save mobile numbers, create a list of favorite contacts, and make calls through voice commands.
 One of the most important features of the application is its ability to execute commands with a single click. When navigating through the application's pages, the blind person can easily determine their location by listening to the accompanying sound cues.
-*In this application I implemented :
-1. Firebase
-2. FlutterTTS
-3. sqflite
-4. tflite
-5. shared_preferences
-6. speech_to_text
-7. agora rtc engine
+
+- In this application I implemented :
+1- Firebase
+2- FlutterTTS
+3- sqflite
+4- tflite
+5- shared_preferences
+6- speech_to_text
+7- agora rtc engine
 -------------  
 ## Screenshots 
 <p float="left">
