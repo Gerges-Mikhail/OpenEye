@@ -14,13 +14,13 @@
 One of the most important features of the application is its ability to execute commands with a single click. When navigating through the application's pages, the blind person can easily determine their location by listening to the accompanying sound cues.
 <p>
 - In this application I implemented :
-1- Firebase
-2- FlutterTTS
-3- sqflite
-4- tflite
-5- shared_preferences
-6- speech_to_text
-7- agora rtc engine
+<p>1- Firebase</p>
+<p>2- FlutterTTS</p>
+<p>3- sqflite</p>
+<p>4- tflite</p>
+<p>5- shared_preferences</p>
+<p>6- speech_to_text</p>
+<p>7- agora rtc engine</p>
 </p>
 -------------  
 ## Screenshots 
