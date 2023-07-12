@@ -24,7 +24,9 @@ One of the most important features of the application is its ability to execute 
 <p>7- agora rtc engine</p>
 </p>
 -------------  
-## Screenshots 
+Screenshots 
+<img src="assets/Cover.png" width="600" height="300" />
+<p float="left">
 <p float="left">
 <img src="images/1.jpg" width="100" height="250" />
 <img src="images/2.jpg" width="100" height="250" />
